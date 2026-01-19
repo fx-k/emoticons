@@ -24,6 +24,43 @@ jobs:
           mkdir -p page
           cp -r json emoticons index.html main.js 404.html CNAME favicon.ico vercel.json sync.sh page/
           cd page
+          cat > edgeone.json <<'EOF'
+          {
+            "headers": [
+              {
+                "source": "/*",
+                "headers": [
+                  {
+                    "key": "Access-Control-Allow-Origin",
+                    "value": "*"
+                  },
+                  {
+                    "key": "Access-Control-Allow-Methods",
+                    "value": "GET,POST"
+                  },
+                  {
+                    "key": "Access-Control-Allow-Headers",
+                    "value": "Authorization"
+                  },
+                  {
+                    "key": "Access-Control-Max-Age",
+                    "value": "2592000"
+                  },
+                  {
+                    "key": "Cache-Control",
+                    "value": "public,max-age=2592000,immutable"
+                  }
+                ]
+              }
+            ],
+            "caches": [
+              {
+                "source": "/emoticons/*",
+                "cacheTtl": 2592000
+              }
+            ]
+          }
+          EOF
           git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
