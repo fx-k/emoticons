@@ -1,0 +1,223 @@
+{
+    "滑稽": {
+        "type": "image",
+        "container": [
+            {
+                "text": "huaji_地稽",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/地稽.jpg'>"
+            },
+            {
+                "text": "huaji_无话可说",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/无话可说.jpg'>"
+            },
+            {
+                "text": "huaji_暗中观察",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/暗中观察.jpg'>"
+            },
+            {
+                "text": "huaji_喝酒",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/喝酒.jpg'>"
+            },
+            {
+                "text": "huaji_突然滑稽",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/突然滑稽.jpg'>"
+            },
+            {
+                "text": "huaji_阔以",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/阔以.jpg'>"
+            },
+            {
+                "text": "huaji_喝嘤料",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/喝嘤料.jpg'>"
+            },
+            {
+                "text": "huaji_稽皮发麻",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/稽皮发麻.jpg'>"
+            },
+            {
+                "text": "huaji_吃鱼摆摆",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/吃鱼摆摆.gif'>"
+            },
+            {
+                "text": "huaji_惊稽",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/惊稽.jpg'>"
+            },
+            {
+                "text": "huaji_原味稽",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/原味稽.png'>"
+            },
+            {
+                "text": "huaji_紧张",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/紧张.jpg'>"
+            },
+            {
+                "text": "huaji_摇摆稽",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/摇摆稽.gif'>"
+            },
+            {
+                "text": "huaji_将稽就稽",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/将稽就稽.gif'>"
+            },
+            {
+                "text": "huaji_稽之舞",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/稽之舞.gif'>"
+            },
+            {
+                "text": "huaji_梆",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/梆.jpg'>"
+            },
+            {
+                "text": "huaji_蠕动",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/蠕动.gif'>"
+            },
+            {
+                "text": "huaji_不得行",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/不得行.jpg'>"
+            },
+            {
+                "text": "huaji_老衲摆摊算命",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/老衲摆摊算命.gif'>"
+            },
+            {
+                "text": "huaji_绝望",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/绝望.jpg'>"
+            },
+            {
+                "text": "huaji_微笑默叹以为妙绝",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/微笑默叹以为妙绝.png'>"
+            },
+            {
+                "text": "huaji_地稽抚摸",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/地稽抚摸.gif'>"
+            },
+            {
+                "text": "huaji_还是算了",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/还是算了.png'>"
+            },
+            {
+                "text": "huaji_相视双稽",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/相视双稽.jpg'>"
+            },
+            {
+                "text": "huaji_跃跃欲试 3",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/跃跃欲试 3.gif'>"
+            },
+            {
+                "text": "huaji_稽日可期",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/稽日可期.jpg'>"
+            },
+            {
+                "text": "huaji_地稽 3",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/地稽 3.jpg'>"
+            },
+            {
+                "text": "huaji_蓝纹稽",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/蓝纹稽.jpg'>"
+            },
+            {
+                "text": "huaji_一时滑稽",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/一时滑稽.jpg'>"
+            },
+            {
+                "text": "huaji_随稽应变",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/随稽应变.jpg'>"
+            },
+            {
+                "text": "huaji_气稽败坏",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/气稽败坏.jpg'>"
+            },
+            {
+                "text": "huaji_束手无稽",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/束手无稽.jpg'>"
+            },
+            {
+                "text": "huaji_满脑子骚操作",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/满脑子骚操作.gif'>"
+            },
+            {
+                "text": "huaji_跃跃欲试 2",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/跃跃欲试 2.jpg'>"
+            },
+            {
+                "text": "huaji_狱稽",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/狱稽.jpg'>"
+            },
+            {
+                "text": "huaji_别看丢人",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/别看丢人.jpg'>"
+            },
+            {
+                "text": "huaji_老哥，稳",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/老哥，稳.jpg'>"
+            },
+            {
+                "text": "huaji_地稽 2",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/地稽 2.jpg'>"
+            },
+            {
+                "text": "huaji_自闭稽",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/自闭稽.jpg'>"
+            },
+            {
+                "text": "huaji_嘤雄豪稽",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/嘤雄豪稽.jpg'>"
+            },
+            {
+                "text": "huaji_少儿不宜",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/少儿不宜.jpg'>"
+            },
+            {
+                "text": "huaji_哎",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/哎.jpg'>"
+            },
+            {
+                "text": "huaji_当场去世",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/当场去世.jpg'>"
+            },
+            {
+                "text": "huaji_地稽委屈",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/地稽委屈.jpg'>"
+            },
+            {
+                "text": "huaji_无法接受",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/无法接受.jpg'>"
+            },
+            {
+                "text": "huaji_又不是不能用",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/又不是不能用.jpg'>"
+            },
+            {
+                "text": "huaji_跃跃欲试",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/跃跃欲试.jpg'>"
+            },
+            {
+                "text": "huaji_老阔有点扣",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/老阔有点扣.gif'>"
+            },
+            {
+                "text": "huaji_可这和我的帅有什么关系",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/可这和我的帅有什么关系.jpg'>"
+            },
+            {
+                "text": "huaji_高兴",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/高兴.jpg'>"
+            },
+            {
+                "text": "huaji_扶墙怂",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/扶墙怂.jpg'>"
+            },
+            {
+                "text": "huaji_无稽可奈",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/无稽可奈.jpg'>"
+            },
+            {
+                "text": "huaji_老实巴交",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/老实巴交.jpg'>"
+            },
+            {
+                "text": "huaji_啊哈哈",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/huaji/啊哈哈.jpg'>"
+            }
+        ]
+    }
+}

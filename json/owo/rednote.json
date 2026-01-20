@@ -1,0 +1,291 @@
+{
+    "小红书": {
+        "type": "image",
+        "container": [
+            {
+                "text": "rednote_耶",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/ye.webp'>"
+            },
+            {
+                "text": "rednote_皱眉",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/zhoumei.webp'>"
+            },
+            {
+                "text": "rednote_得意",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/deyi.webp'>"
+            },
+            {
+                "text": "rednote_买爆",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/maibao.webp'>"
+            },
+            {
+                "text": "rednote_拳头",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/quantou.webp'>"
+            },
+            {
+                "text": "rednote_玫瑰",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/meigui.webp'>"
+            },
+            {
+                "text": "rednote_鄙视",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/bishi.webp'>"
+            },
+            {
+                "text": "rednote_叹气",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/tanqi.webp'>"
+            },
+            {
+                "text": "rednote_飞吻",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/feiwen.webp'>"
+            },
+            {
+                "text": "rednote_生气",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/shengqi.webp'>"
+            },
+            {
+                "text": "rednote_弱",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/ruo.webp'>"
+            },
+            {
+                "text": "rednote_炸弹",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/zhadan.webp'>"
+            },
+            {
+                "text": "rednote_ok",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/ok.webp'>"
+            },
+            {
+                "text": "rednote_点赞",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/dianzan.webp'>"
+            },
+            {
+                "text": "rednote_喝奶茶",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/henaicha.webp'>"
+            },
+            {
+                "text": "rednote_吧唧",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/baji.webp'>"
+            },
+            {
+                "text": "rednote_请友好",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/qingyouhao.webp'>"
+            },
+            {
+                "text": "rednote_火",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/huo.webp'>"
+            },
+            {
+                "text": "rednote_色色",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/sese.webp'>"
+            },
+            {
+                "text": "rednote_拔草",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/bacao.webp'>"
+            },
+            {
+                "text": "rednote_石化",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/shihua.webp'>"
+            },
+            {
+                "text": "rednote_惊恐",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/jingkong.webp'>"
+            },
+            {
+                "text": "rednote_郁金香",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/yujinxiang.webp'>"
+            },
+            {
+                "text": "rednote_鼓掌",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/guzhang.webp'>"
+            },
+            {
+                "text": "rednote_黄金薯",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/huangjinshu.webp'>"
+            },
+            {
+                "text": "rednote_加油",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/jiayou.webp'>"
+            },
+            {
+                "text": "rednote_黑薯问号",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/heishuwenhao.webp'>"
+            },
+            {
+                "text": "rednote_斜眼",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/xieyan.webp'>"
+            },
+            {
+                "text": "rednote_抓狂",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/zhuakuang.webp'>"
+            },
+            {
+                "text": "rednote_种草",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/zhongcao.webp'>"
+            },
+            {
+                "text": "rednote_暗中观察",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/anzhongguancha.webp'>"
+            },
+            {
+                "text": "rednote_再见",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/zaijian.webp'>"
+            },
+            {
+                "text": "rednote_偷笑",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/touxiao.webp'>"
+            },
+            {
+                "text": "rednote_抠鼻",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/koubi.webp'>"
+            },
+            {
+                "text": "rednote_蹲后续",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/dunhouxu.webp'>"
+            },
+            {
+                "text": "rednote_大笑",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/daxiao.webp'>"
+            },
+            {
+                "text": "rednote_拥抱",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/yongbao.webp'>"
+            },
+            {
+                "text": "rednote_吃瓜",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/chigua.webp'>"
+            },
+            {
+                "text": "rednote_星星",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/xingxing.webp'>"
+            },
+            {
+                "text": "rednote_抱拳",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/baoquan.webp'>"
+            },
+            {
+                "text": "rednote_凋谢",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/diaoxie.webp'>"
+            },
+            {
+                "text": "rednote_购物车",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/gouwuche.webp'>"
+            },
+            {
+                "text": "rednote_害羞",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/haixiu.webp'>"
+            },
+            {
+                "text": "rednote_开箱",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/kaixiang.webp'>"
+            },
+            {
+                "text": "rednote_笑哭",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/xiaoku.webp'>"
+            },
+            {
+                "text": "rednote_萌萌哒",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/mengmengda.webp'>"
+            },
+            {
+                "text": "rednote_吐舌头",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/tushetou.webp'>"
+            },
+            {
+                "text": "rednote_自拍",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/zipai.webp'>"
+            },
+            {
+                "text": "rednote_打卡",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/daka.webp'>"
+            },
+            {
+                "text": "rednote_哇",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/wa.webp'>"
+            },
+            {
+                "text": "rednote_扯脸",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/chelian.webp'>"
+            },
+            {
+                "text": "rednote_举手",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/jushou.webp'>"
+            },
+            {
+                "text": "rednote_微笑",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/weixiao.webp'>"
+            },
+            {
+                "text": "rednote_狗头",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/goutou.webp'>"
+            },
+            {
+                "text": "rednote_睡觉",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/shuijue.webp'>"
+            },
+            {
+                "text": "rednote_同款",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/tongkuan.webp'>"
+            },
+            {
+                "text": "rednote_合十",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/heshi.webp'>"
+            },
+            {
+                "text": "rednote_派对",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/paidui.webp'>"
+            },
+            {
+                "text": "rednote_探店",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/tandian.webp'>"
+            },
+            {
+                "text": "rednote_扶墙",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/fuqiang.webp'>"
+            },
+            {
+                "text": "rednote_汗颜",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/hanyan.webp'>"
+            },
+            {
+                "text": "rednote_赞",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/zan.webp'>"
+            },
+            {
+                "text": "rednote_勾引",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/gouyin.webp'>"
+            },
+            {
+                "text": "rednote_失望",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/shiwang.webp'>"
+            },
+            {
+                "text": "rednote_握手",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/woshou.webp'>"
+            },
+            {
+                "text": "rednote_向右",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/xiangyou.webp'>"
+            },
+            {
+                "text": "rednote_捂脸",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/wulian.webp'>"
+            },
+            {
+                "text": "rednote_哭惹",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/kure.webp'>"
+            },
+            {
+                "text": "rednote_可怜",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/kelian.webp'>"
+            },
+            {
+                "text": "rednote_请文明",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/qingwenming.webp'>"
+            },
+            {
+                "text": "rednote_优惠券",
+                "icon": "<img src='https://emoticons.cmt.keke.su/emoticons/rednote/youhuiquan.webp'>"
+            }
+        ]
+    }
+}
